@@ -6,4 +6,3 @@ springcloudwebtest:
     eureka:
       enabled: false
     listOfServers: localhost:8080
-    ServerListRefreshInterval: 15000
